@@ -183,4 +183,9 @@
   .recipe__ingridiens-list-ul {
     margin-left: 5%;
   }
+
+  .recipe__ingridiens-list-li:before {
+    content: "\2665";
+    color: #d1a080;
+  }
 }
