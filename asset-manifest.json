@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/recipes-rest-api-react-app/static/css/main.f5b1c796.chunk.css",
+    "main.css": "/recipes-rest-api-react-app/static/css/main.10743d8c.chunk.css",
     "main.js": "/recipes-rest-api-react-app/static/js/main.05355d0e.chunk.js",
     "main.js.map": "/recipes-rest-api-react-app/static/js/main.05355d0e.chunk.js.map",
     "runtime-main.js": "/recipes-rest-api-react-app/static/js/runtime-main.f07bf5d5.js",
@@ -8,13 +8,13 @@
     "static/js/2.412f6929.chunk.js": "/recipes-rest-api-react-app/static/js/2.412f6929.chunk.js",
     "static/js/2.412f6929.chunk.js.map": "/recipes-rest-api-react-app/static/js/2.412f6929.chunk.js.map",
     "index.html": "/recipes-rest-api-react-app/index.html",
-    "static/css/main.f5b1c796.chunk.css.map": "/recipes-rest-api-react-app/static/css/main.f5b1c796.chunk.css.map",
+    "static/css/main.10743d8c.chunk.css.map": "/recipes-rest-api-react-app/static/css/main.10743d8c.chunk.css.map",
     "static/js/2.412f6929.chunk.js.LICENSE.txt": "/recipes-rest-api-react-app/static/js/2.412f6929.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f07bf5d5.js",
     "static/js/2.412f6929.chunk.js",
-    "static/css/main.f5b1c796.chunk.css",
+    "static/css/main.10743d8c.chunk.css",
     "static/js/main.05355d0e.chunk.js"
   ]
 }
